@@ -11,7 +11,7 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-text = "ab"
-times = "3"
+text = str("ab")
+times = int("3")
 result = text * times
 print(result)
